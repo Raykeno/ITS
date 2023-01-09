@@ -41,8 +41,7 @@ def sToSTR(S):
     for i in S:
         res = res+ ' '+ i    
     return res 
-            
-        
+  
 
 # notre liste pour faire des prints pour plus tard
 finalList = []
